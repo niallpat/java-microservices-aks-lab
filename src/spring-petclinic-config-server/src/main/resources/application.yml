@@ -11,6 +11,6 @@ spring:
           searchLocations: file:///${GIT_REPO
           uri: https://github.com/your-org/your-config-repo-uri
           username: niallpat
-          password: 	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
+          password: 	
           default-label: the-branch-name-in-case-you-will-not-be-using-the-main-branch
          
